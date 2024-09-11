@@ -70,3 +70,9 @@ header{
 .hide{
     display: none;
 }
+footer{
+    background-color: black;
+    color:white;
+    justify-content:center;
+    text-align: center;
+}
