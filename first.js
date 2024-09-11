@@ -51,7 +51,7 @@ const resetbttn = () =>{
     resetbtn.classList.remove("hide");
 }
 const showwinner = (winner) =>{
-    msg.innerText = `Congratulations, vansh maa chuda Winner is ${winner} !!`;
+    msg.innerText = `Congratulations, Winner is ${winner} !!`;
     container.classList.remove("hide");
     resetbtn.classList.add("hide");
     dissablebttns();
